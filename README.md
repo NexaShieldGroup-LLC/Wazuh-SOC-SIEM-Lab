@@ -8,7 +8,7 @@ To validate our defensive security stack, NexaShield engineers manually provisio
 
 ---
 
-## 🏗️ Enterprise Lab Architecture
+##  Enterprise Lab Architecture
 This architecture mirrors our lean deployment model for small-to-medium businesses (SMBs) looking for cost-effective, high-visibility SIEM solutions:
 
 *   **SIEM Manager Engine:** Wazuh Server (Centralized Log Aggregator & Alert Indexer)
@@ -38,7 +38,7 @@ hydra -l [target_user] -P [wordlist.txt] [service]://<TARGET_IP>
 ## 🎯 Phase 3: Detection & Threat Hunting Analysis
 Wazuh’s native rules engine immediately identified the malicious behavior without requiring custom tuning, demonstrating powerful out-of-the-box enterprise protection.
 
-### 🖼️ Evidence of Detection
+###  Evidence of Detection
 Below is the live forensic telemetry captured during the active triage process:
 
 #### 1. Failed Password Attempts Detected
