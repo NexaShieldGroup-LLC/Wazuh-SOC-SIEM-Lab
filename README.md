@@ -1,7 +1,7 @@
 # NexaShield Group LLC — Cyber Security Research & Deployment Lab
 ## Threat Emulation Case Study: Automated Brute-Force Detection via Centralized SIEM
 
-## 📌 Executive Summary
+## Summary
 This project serves as a validated deployment blueprint engineered by **NexaShield Group LLC** to demonstrate enterprise-grade real-time security monitoring, log aggregation, and threat detection capabilities. 
 
 To validate our defensive security stack, NexaShield engineers manually provisioned a custom, minimal adversarial environment to execute a targeted automated credential-stuffing (brute-force) attack via Hydra. This case study details how our centralized **Wazuh SIEM/XDR** architecture successfully aggregates endpoint telemetry, parses raw authentication logs, and triggers immediate out-of-the-box high-priority alert clusters to mitigate active network intrusion attempts.
