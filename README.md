@@ -212,7 +212,31 @@ A fully functional SIEM pipeline capable of detecting:
 - SIEM deployment
 - Endpoint protection
 - Network monitoring
-- Threat detection
+- Threat detection.
 
 
-*lead Engineer: Alan (Alancyber- NexashieldGroupLLC)  
+
+NexaShield Group LLC is a cybersecurity engineering and research company focused on
+SOC operations, SIEM deployment, endpoint telemetry, and adversarial simulation. We
+build real-world detection pipelines using Wazuh SIEM/XDR, Sysmon, Windows event
+telemetry, and controlled brute-force attack simulations.
+
+This GitHub organization hosts our hands-on security labs, SOC research projects,
+and detection engineering work, including:
+
+• Wazuh SIEM/XDR deployment and tuning  
+• Hydra brute-force simulations (RDP, SSH, HTTP)  
+• Windows endpoint telemetry (Sysmon + Event Logs)  
+• Threat hunting dashboards and correlation rules  
+• Filebeat ingestion troubleshooting and pipeline repair  
+• Incident response reconstruction and forensic analysis  
+
+NexaShield Group LLC focuses on developing practical, real-world SOC capabilities
+that can support future clients such as small businesses, state agencies, and
+enterprise environments. Our work emphasizes hands-on engineering: every lab is
+built, tested, broken, repaired, and validated inside a live multi-VM environment.
+
+Lead Engineer: Uzhiyekchi Alan  Ezekwem (Alancyber)  
+Brooklyn, NY — NexaShield Group LLC
+
+
