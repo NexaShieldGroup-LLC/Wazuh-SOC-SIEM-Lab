@@ -236,7 +236,7 @@ that can support future clients such as small businesses, state agencies, and
 enterprise environments. Our work emphasizes hands-on engineering: every lab is
 built, tested, broken, repaired, and validated inside a live multi-VM environment.
 
-Lead Engineer: Uzhiyekchi Alan  Ezekwem (Alancyber)  
+Lead Engineer: Uzhiyekchi Alan  Ezekwem (alancybershield-spec)  
 Brooklyn, NY — NexaShield Group LLC
 
 
