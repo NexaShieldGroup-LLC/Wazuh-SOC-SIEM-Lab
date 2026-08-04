@@ -172,7 +172,7 @@ A fully functional SIEM pipeline capable of detecting:
 - Sysmon events
 - Windows authentication failures
 
-- 
+  
 # NexaShield Group LLC — Cybersecurity Services
 
 ## SOC Build‑Out & Monitoring
