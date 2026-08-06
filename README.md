@@ -120,7 +120,7 @@ Below is the live forensic telemetry captured during the active triage process:
 
 #### 2. Brute-Force Cluster Triggered
 *This screenshot captures the specific high-severity alert indicating that an automated brute-force attack was underway.*
-![Brute Force Triggered](./docs/brute_force_alert.png)
+![Brute Force Triggered](https://github.com/NexaShieldGroup-LLC/Wazuh-SOC-SIEM-Lab/blob/main/Wazuh%20Threat%20Hunting%20%E2%80%94%20Rule%2060204%20(Severity%2010).png)
 
 ###  Rule Metrics Validated
 *   **Failed Authentication Events:** Detected individual attempts to login using failed credentials or non-existent users.
