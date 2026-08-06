@@ -116,7 +116,7 @@ Below is the live forensic telemetry captured during the active triage process:
 
 #### 1. Failed Password Attempts Detected
 *This screenshot shows individual failed login events registering in the Wazuh dashboard as traffic spiked.*
-![Failed Password Alerts](./docs/failed_logins.png) 
+![Failed Password Alerts](https://github.com/NexaShieldGroup-LLC/Wazuh-SOC-SIEM-Lab/blob/main/Wazuh%20Threat%20Hunting%20%E2%80%94%20Rule%2060122%20(Failed%20Password).png) 
 
 #### 2. Brute-Force Cluster Triggered
 *This screenshot captures the specific high-severity alert indicating that an automated brute-force attack was underway.*
