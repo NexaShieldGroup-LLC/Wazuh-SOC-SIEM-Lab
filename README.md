@@ -124,7 +124,7 @@ Below is the live forensic telemetry captured during the active triage process:
 
 ###  Rule Metrics Validated
 *   **Failed Authentication Events:** Detected individual attempts to login using failed credentials or non-existent users.
-*   **Brute-Force Cluster Alarms:** Successfully escalated the incident to a high-priority alert due to the rapid frequency of automated attempts hitting the endpoint.
+*   **Brute-Force Cluster Alarms:** Successfully escalated the incident to a high-priority alert due to the rapid frequency of automated attempts hitting the endpoint. (rule id 10)
 
 ---
 
